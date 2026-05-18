@@ -1,0 +1,67 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "cityId": "1",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "population": 3223000,
+      "description": "La capital vibrante y centro cultural de España."
+    },
+    {
+      "id": "2",
+      "cityId": "2",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "population": 1620000,
+      "description": "Ciudad costera famosa por su arte y la arquitectura de Gaudí."
+    }
+  ],
+  "apartments": [
+    {
+      "id": "1",
+      "apartmentId": "1",
+      "cityId": "1",
+      "name": "Cozy Gran Vía Studio",
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "numberParking": 0,
+      "Price": 1200,
+      "squareMeters": 45,
+      "description": "Un hermoso y céntrico estudio perfecto para nómadas digitales.",
+      "startDate": "",
+      "endDate": "",
+      "state": "Available"
+    },
+    {
+      "id": "2",
+      "apartmentId": "2",
+      "cityId": "1",
+      "name": "Retiro Park View Flat",
+      "numberBedrooms": 2,
+      "numberGarage": 1,
+      "numberParking": 1,
+      "Price": 1800,
+      "squareMeters": 80,
+      "description": "Amplio departamento con vista directa al Parque del Retiro.",
+      "startDate": "2026-06-01",
+      "endDate": "2026-12-01",
+      "state": "Completed"
+    },
+    {
+      "id": "3",
+      "apartmentId": "3",
+      "cityId": "2",
+      "name": "Eixample Modern Flat",
+      "numberBedrooms": 3,
+      "numberGarage": 1,
+      "numberParking": 1,
+      "Price": 2500,
+      "squareMeters": 110,
+      "description": "Lujoso departamento con arquitectura moderna en el corazón de Barcelona.",
+      "startDate": "",
+      "endDate": "",
+      "state": "Available"
+    }
+  ]
+}

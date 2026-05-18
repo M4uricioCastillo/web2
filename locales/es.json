@@ -1,0 +1,18 @@
+{
+  "home": {
+    "title": "Cuidades Ukio",
+    "welcome": "Sientete como en casa dondequiera que vayas",
+    "sectionTitle": "País",
+    "amount": "Monto"
+  },
+  "toolbar": {
+    "home": "Inicio",
+    "Apartments": "Apartamentos",
+    "content": "Encuentra tu Hogar"
+  },
+  "notFound": {
+    "title": "Pagina No Encontrada",
+    "message": "El camino solicitado {path} no fue encontrado.",
+    "button": "Regresar a Ciudades"
+  }
+}

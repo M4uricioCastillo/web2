@@ -1,0 +1,18 @@
+{
+  "home": {
+    "title": "Ukio Cities",
+    "welcome": "Feel at home wherever you go",
+    "sectionTitle": "Country",
+    "amount": "Amount"
+  },
+  "toolbar": {
+    "home": "Home",
+    "Apartments": "Apartments",
+    "content": "Find your Home"
+  },
+  "notFound": {
+  "title": "Page Not Found",
+  "message": "The requested path {path} was not found.",
+  "button": "Return to Cities"
+  }
+}
